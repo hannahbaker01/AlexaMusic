@@ -1,9 +1,9 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
+# Copyright (C) 2021-2022 by The_Shadow_Knight@Github, < https://github.com/Jankarikiduniya >.
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 
-# Kanged By © @Dr_Asad_Ali
-# Rocks © @Shayri_Music_Lovers
+# Kanged By © @The_Shadow_Knight
+# Rocks © @OFFICIALBOT_SUPPORT
 # Owner Asad Ali
 # Harshit Sharma
 # All rights reserved. © Alisha © Alexa © Yukki
@@ -59,7 +59,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("Alexa_Help")
+                await self.one.join_chat("The_Shadow_Knight")
             except:
                 pass
             assistants.append(1)
@@ -85,7 +85,7 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("Alexa_Help")
+                await self.two.join_chat("The_Shadow_Knight")
             except:
                 pass
             assistants.append(2)
@@ -111,7 +111,7 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("Alexa_Help")
+                await self.three.join_chat("The_Shadow_Knight")
             except:
                 pass
             assistants.append(3)
@@ -137,7 +137,7 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("Alexa_Help")
+                await self.four.join_chat("The_Shadow_Knight")
             except:
                 pass
             assistants.append(4)
@@ -163,7 +163,7 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("Alexa_Help")
+                await self.five.join_chat("The_Shadow_Knight")
             except:
                 pass
             assistants.append(5)

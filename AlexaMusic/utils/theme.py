@@ -1,5 +1,5 @@
 ## this code is added by the (C) TheTeamAlexa on 7th March
-# Copyright (C) 2021-2022 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >.
+# Copyright (C) 2021-2022 by The_Shadow_Knight @ Github, < https://github.com/TheTeamAlexa >.
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 # All rights reserved. © Alisha © Alexa © Yukki
 

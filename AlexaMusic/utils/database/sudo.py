@@ -1,6 +1,6 @@
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks © @Dr_Asad_Ali © Rocks
+# Rocks © @The_Shadow_Knight © Rocks
 # Owner Asad Ali
 # Harshit Sharma
 
